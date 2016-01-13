@@ -7,10 +7,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-**Note:** Replace ```Joao Lourenco``` ```joaogl``` ```http://joaolourenco.net/``` ```jglourenco.pt@gmail.com``` ```jlourenco``` ```comments``` ```This modules adds the ability to have comments on any entity using Morph relationships``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
-
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
-PSRs you support to avoid any confusion with users and contributors.
+This modules adds the ability to have comments on any entity using Morph relationships
 
 ## Install
 
