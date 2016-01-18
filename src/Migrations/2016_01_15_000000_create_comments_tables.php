@@ -18,6 +18,8 @@ class CreateCommentsTables extends Migration
             $table->increments('id');
             $table->integer('parent')->unsigned()->nullable();
             $table->text('comment');
+
+            $table->morphs("entity");
             $table->timestamps();
             $table->softDeletes();
             $table->creation();
