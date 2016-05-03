@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Migrations\Migration;
-use \jlourenco\base\Database\Blueprint;
+use \jlourenco\support\Database\Blueprint;
 
 class CreateCommentsTables extends Migration
 {
